@@ -1,6 +1,6 @@
 # Link Saver - Chrome Extension
 
-![Leads Tracker Logo](https://example.com/leads-tracker-logo.png)
+![Leads Tracker Logo](https://i.ibb.co/CWQSHLm/icon.png)
 
 Leads Tracker is a handy Chrome extension designed to help you effortlessly manage and organize your important links directly within your browser. Think of it as a modern and simplified alternative to traditional bookmarks. Whether you're conducting research, collecting references, or just want to keep track of your favorite web pages, Leads Tracker is here to streamline your web browsing experience.
 
