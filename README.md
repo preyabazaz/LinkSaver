@@ -1,8 +1,8 @@
 # Link Saver - Chrome Extension
 
-![Leads Tracker Logo](https://i.postimg.cc/263r9jvs/link.png)
+![Link Saver Logo](https://i.postimg.cc/263r9jvs/link.png)
 
-Leads Tracker is a handy Chrome extension designed to help you effortlessly manage and organize your important links directly within your browser. Think of it as a modern and simplified alternative to traditional bookmarks. Whether you're conducting research, collecting references, or just want to keep track of your favorite web pages, Leads Tracker is here to streamline your web browsing experience.
+Link Saver is a convenient Chrome extension designed to help you effortlessly manage and organize your important links directly within your browser. Think of it as a modern and simplified alternative to traditional bookmarks. Whether you're conducting research, collecting references, or just want to keep track of your favorite web pages, Link Saver is here to streamline your web browsing experience.
 
 ## Table of Contents
 - [Features](#features)
@@ -30,43 +30,65 @@ Leads Tracker is a handy Chrome extension designed to help you effortlessly mana
    - Filter links by tags, date added, or any custom criteria.
 
 ### 5. **Customization**
-   - Personalize your Leads Tracker experience with various settings.
+   - Personalize your Link Saver experience with various settings.
    - Choose your preferred theme, hotkeys, and more.
 
 ## Installation
 
-You can install Leads Tracker from the [Chrome Web Store](https://chrome.google.com/webstore/leads-tracker-extension).
+To install Link Saver manually, follow these steps:
 
-1. Visit the Chrome Web Store using your Chrome browser.
-2. Search for "Leads Tracker - Chrome Extension."
-3. Click the "Add to Chrome" button to install the extension.
-4. Follow the on-screen instructions to complete the installation.
+1. Go to the [Releases](https://github.com/yourusername/link-saver/releases) section of this repository.
+
+2. Download the latest release zip file (`link-saver-vX.X.X.zip`).
+
+3. Extract the contents of the zip file to a directory of your choice.
+
+4. Open your Chrome browser.
+
+5. Click on the three vertical dots (menu) in the top-right corner of the browser to open the Chrome menu.
+
+6. Select "More tools" > "Extensions" to open the Extensions page.
+
+7. Enable "Developer mode" by toggling the switch in the top-right corner of the Extensions page.
+
+8. Click the "Load unpacked" button that appears when Developer mode is enabled.
+
+9. Navigate to the directory where you extracted the Link Saver extension files and select the folder.
+
+10. The Link Saver extension should now be installed and accessible from your Chrome toolbar.
 
 ## Usage
 
-Once you've installed Leads Tracker, it's easy to get started:
+Once you've installed Link Saver, it's easy to get started:
 
-1. Click on the Leads Tracker icon in your Chrome toolbar.
+1. Click on the Link Saver icon in your Chrome toolbar.
+
 2. Sign in with your Google account to enable syncing across devices.
+
 3. Start adding your important links and organizing them with tags.
+
 4. Use the search and filter features to quickly access your saved links.
 
 ## Contributing
 
-We welcome contributions from the open-source community. If you'd like to contribute to Leads Tracker, please follow these steps:
+We welcome contributions from the open-source community. If you'd like to contribute to Link Saver, please follow these steps:
 
 1. Fork the repository.
+
 2. Create a new branch for your feature or bug fix.
+
 3. Make your changes and ensure they are well-documented.
+
 4. Test your changes thoroughly.
+
 5. Create a pull request with a clear description of your changes.
 
-We appreciate your help in making Leads Tracker even better!
+We appreciate your help in making Link Saver even better!
 
 ## License
 
-Leads Tracker is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute this extension in accordance with the terms of the license.
+Link Saver is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute this extension in accordance with the terms of the license.
 
 ---
 
-**Disclaimer:** Leads Tracker is not affiliated with or endorsed by Google or the Chromium project. It is an independent project created by the open-source community to enhance the web browsing experience for users of Chromium-based browsers.
+**Disclaimer:** Link Saver is not affiliated with or endorsed by Google or the Chromium project. It is an independent project created by the open-source community to enhance the web browsing experience for users of Chromium-based browsers.
